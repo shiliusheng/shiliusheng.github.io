@@ -165,7 +165,7 @@ const characterData = [
     tags: ["绝对掌控"],
     avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757953652041_qdqqd_oooxdi.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757933944919_qdqqd_xl17gc.avif",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291997823_qdqqd_ahdjc1.jpg",
      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757934147658_qdqqd_r5xwt8.jpg"
     ]
   },
