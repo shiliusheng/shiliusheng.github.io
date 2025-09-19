@@ -107,7 +107,7 @@ const characterData = [
     title: "女王",
     desc: "雄图大略百里志 仗剑行侠祁殷名",
     tags: ["无形无相亦无我"],
-    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757951036160_qdqqd_8urq07.jpg",
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291105513_qdqqd_d8ass7.jpg",
     art: [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757950984474_qdqqd_q9r567.jpg"
     ]
@@ -317,7 +317,7 @@ const characterData = [
     tags: ["吕布再世"],
     avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757953831062_qdqqd_r22zmv.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757940866731_qdqqd_9tx9nm.jpg"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291308685_qdqqd_keqj53.jpg"
     ]
   },
   {
@@ -661,7 +661,7 @@ const characterData = [
     title: "小绪神",
     desc: "诚招小六  给你小三双倍的宠爱",
     tags: ["纯爱", "00王", "极品御姐"],
-    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758134361217_qdqqd_alrewk.jpg",
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291075754_qdqqd_w79jd1.jpg",
     art: [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758134350340_qdqqd_2966pf.jpg"
     ]
@@ -706,25 +706,19 @@ const characterData = [
     title: "漫の狗奴才",
     desc: "漫皇万岁万岁万万岁",
     tags: ["漫    の    奴     • ω<☆"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291277072_qdqqd_o8vm8x.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291290005_qdqqd_z6qf97.jpg"
     ]
   },{
     id: 'feng_yi',
-    name: "昵称39",
-    title: "职位称号等",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "和禾",
+    title: "石榴声的一员",
+    desc: "精通99，均均",
+    tags: ["忠义", "摸鱼"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291258676_qdqqd_h6roqu.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291195946_qdqqd_1k3oro.jpg"
     ]
   },
   {
