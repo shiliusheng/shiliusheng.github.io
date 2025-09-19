@@ -723,16 +723,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "昵称40",
-    title: "职位称号等",
-    desc: "为人仁厚，重情重义。",
-    tags: ["虹虹玩家", "紫色韵味", "开服玩家"],
-    avatar: "https://gitee.com/tx-feng/FengHuaWuQue/raw/Vue/Static/player/avatar/avatar11.avif",
+    name: "像风又像雲",
+    title: "石榴声肝帝",
+    desc: "刀弟？刀爷！",
+    tags: ["世间有我这般人"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291802906_qdqqd_kajhs7.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398092558_qdqqd_fqwyyr.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398094217_qdqqd_yumaub.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398127831_qdqqd_guf314.avif",
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757398131295_qdqqd_6qamva.avif"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291780127_qdqqd_af7p4o.jpg"
     ]
   },
   {
