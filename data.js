@@ -306,7 +306,7 @@ const characterData = [
     tags: ["绝对忠义", "目押一切", "神秘牵制者"],
     avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757953784106_qdqqd_3vxspq.jpg",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757940797317_qdqqd_t9vvku.jpg"
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758728648994_qdqqd_mbsqqi.jpg"
     ]
   },
   {
@@ -603,13 +603,13 @@ const characterData = [
   },
   {
     id: 'feng_yi',
-    name: "明月醉东风",
-    title: "霖霖",
-    desc: "唐奶不辱使命",
-    tags: ["ENTJ"],
-    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758033548160_qdqqd_0l301a.jpg",
+    name: "",
+    title: "",
+    desc: "",
+    tags: [""],
+    avatar: "",
     art: [
-      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758033521349_qdqqd_phitkm.jpg"
+      ""
     ]
   },
   {
