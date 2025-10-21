@@ -34,7 +34,7 @@ const demoVideos = [
   {
     id: '1',
     name: '抖音混剪视频',
-    video: 'https://open.douyin.com/player/video?vid=7536928741290396985&autoplay=0'
+    video: 'https://open.douyin.com/player/video?vid=7563262804484984103&autoplay=0'
   },
   {
     id: '2',
@@ -367,13 +367,14 @@ const characterData = [
   },
   {
     id: '30',
-    name: "",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+    name: "东方灵",
+    title: "双剑玩家",
+    desc: "希望你做你喜欢的自己",
+    tags: ["绝对掌控"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757953652041_qdqqd_oooxdi.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291997823_qdqqd_ahdjc1.jpg",
+     "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757934147658_qdqqd_r5xwt8.jpg"
     ]
   },
   {
@@ -411,13 +412,13 @@ const characterData = [
   },
   {
     id: '34',
-    name: "",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+    name: "像风又像雲",
+    title: "石榴声肝帝",
+    desc: "刀弟？刀爷！",
+    tags: ["世间有我这般人"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291802906_qdqqd_kajhs7.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758291780127_qdqqd_af7p4o.jpg"
     ]
   },
   {
@@ -542,10 +543,10 @@ const characterData = [
   },
   {
     id: '46',
-    name: "",
-    title: "",
-    desc: "",
-    tags: [""],
+    name: "再少年",
+    title: "一个低调的入",
+    desc: "吃的好睡的多，游戏一个少不了",
+    tags: ["i人","喜欢猫"],
     avatar: "",
     art: [
       ""
@@ -629,13 +630,14 @@ const characterData = [
   },
   {
     id: '54',
-    name: "",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+   name: "王慕丞",
+    title: "热爱游戏，热爱生活",
+    desc: "待到秋来九月八",
+    tags: ["I人", "内测玩家", "纯血九剑"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757952394290_qdqqd_mt07ya.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757952306753_qdqqd_lk3o11.jpg",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757952324466_qdqqd_bo88kr.jpg"
     ]
   },
   {
@@ -651,10 +653,10 @@ const characterData = [
   },
   {
     id: '56',
-    name: " ",
-    title: "",
-    desc: "",
-    tags: [""],
+    name: "猪肘",
+    title: "不处也不收徒 收坐骑",
+    desc: "视奸一个猪肘？",
+    tags: ["神"],
     avatar: "",
     art: [
       ""
@@ -673,10 +675,10 @@ const characterData = [
   },
   {
     id: '58',
-    name: "",
-    title: "",
-    desc: "",
-    tags: [""],
+    name: "蠲霜",
+    title: "石榴声进攻团见习奶爸",
+    desc: "纯爱战神",
+    tags: ["暂不收徒","不找侠缘","战斗分子"],
     avatar: "",
     art: [
       ""
@@ -705,46 +707,47 @@ const characterData = [
     ]
   },{
     id: '61',
-    name: "",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+    name: "林玄子",
+    title: "石榴声旗下第一深情天帝",
+    desc: "克劳德现实和我差不多吧，只不过我比他多一点忧郁",
+    tags: ["温柔", "人夫", "小蛋糕"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757953866206_qdqqd_kqtepp.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757940977856_qdqqd_eqauox.jpg"
     ]
   },
   {
     id: '62',
-    name: "",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+    name: " 阿羚",
+    title: "意斩春秋 剑撼乾坤",
+    desc: "轻衫踏风行，眉眼载江湖。沉舟不渡，但行险路！",
+    tags: ["武道独尊", "龙城飞将"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757954008284_qdqqd_nphyz4.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757951092671_qdqqd_8jqktm.jpg"
     ]
   },
   {
     id: '63',
-    name: "63",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+    name: "清眠",
+    title: "石榴声机动队的天",
+    desc: "扇你巴掌的时候要问我的手疼不疼",
+    tags: ["亲UU ", "极品少御  "],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758033824295_qdqqd_mpiosm.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757952223225_qdqqd_dcmped.jpg"
     ]
   },
   {
     id: '64',
-    name: "64",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+    name: "格调",
+    title: "石榴声进攻团团长",
+    desc: "双剑随身云鹤伴，斩妖除祟显英姿",
+    tags: ["猛"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757954492690_qdqqd_tjy1xm.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757954444396_qdqqd_wdsozn.jpg",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758019387913_qdqqd_5otvr3.jpg"
     ]
   },
   {
@@ -775,22 +778,23 @@ const characterData = [
     title: "石榴声机动团超级高手",
     desc: "流水高山心自知",
     tags: ["忠义", "纯爱", "暂不收狗"],
-    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1759223455523_qdqqd_iqq3h4.jpg",
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1761075930657_qdqqd_q9fxz9.jpg",
     art: [
       "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1759223470382_qdqqd_4hxv8v.jpg"
     ]
   },
   {
     id: '68',
-    name: "68",
-    title: "",
-    desc: "",
-    tags: [""],
-    avatar: "",
+    name: "神楽咲",
+    title: "极品小学生",
+    desc: "好玩爱玩",
+    tags: ["忠义", "虹虹", "王子"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757953382468_qdqqd_tjbsli.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757953372980_qdqqd_0vt0af.jpg"
     ]
-  },{
+  },
+{
     id: '69',
     name: "光影呀",
     title: "无名枪剑天下第一",
@@ -803,38 +807,38 @@ const characterData = [
   },
   {
     id: '70',
-    name: "70",
-    title: "职位称号等",
-    desc: " ",
-    tags: [" "],
-    avatar: " ",
+    name: "徐长卿",
+    title: "石榴声进攻团3队指挥",
+    desc: "王从天降 愤怒狰狞",
+    tags: ["双刀魔怔哥","无名驾驶员"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758019640914_qdqqd_s8yawf.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758019602835_qdqqd_er4su9.jpg"
     ]
   },
   {
     id: '71',
-    name: "71",
-    title: "职位称号等",
-    desc: " ",
-    tags: [" "],
-    avatar: " ",
+    name: "月咬枝",
+    title: "石榴声一级保护废物",
+    desc: "爱玩丝滑小连招的玉皇大帝，故意放炮之后屡屡自摸的雀神，跟清纯女大面基约会的超可恶现充，陪石榴声一路走来见证每一次登顶",
+    tags: ["纯爱菩萨"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758134285505_qdqqd_0vct87.jpg",
     art: [
-      ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1758134274071_qdqqd_bewkaw.jpg"
     ]
   },
   {
     id: '72',
-    name: "72",
-    title: "职位称号等",
-    desc: " ",
-    tags: [" "],
-    avatar: " ",
+    name: "趙云",
+    title: "杀！！！",
+    desc: "吾视百万大军亦不过草芥",
+    tags: ["不找侠缘"],
+    avatar: "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757954803597_qdqqd_8dj36z.jpg",
     art: [
-     ""
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757938615205_qdqqd_sh9uh0.png",
+      "https://s3plus.meituan.net/opapisdk/op_ticket_885190757_1757938668273_qdqqd_pmnikc.png"
     ]
   },
-  
   {
     id: '73',
     name: "73",
